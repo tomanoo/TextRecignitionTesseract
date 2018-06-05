@@ -1,0 +1,15 @@
+c:\users\tomek\documents\visual studio 2017\Projects\TextRecognitionTesseract\TextRecognitionTesseract\bin\Debug\TextRecognitionTesseract.exe.config
+c:\users\tomek\documents\visual studio 2017\Projects\TextRecognitionTesseract\TextRecognitionTesseract\bin\Debug\TextRecognitionTesseract.exe
+c:\users\tomek\documents\visual studio 2017\Projects\TextRecognitionTesseract\TextRecognitionTesseract\bin\Debug\TextRecognitionTesseract.pdb
+c:\users\tomek\documents\visual studio 2017\Projects\TextRecognitionTesseract\TextRecognitionTesseract\obj\Debug\TextRecognitionTesseract.csprojResolveAssemblyReference.cache
+c:\users\tomek\documents\visual studio 2017\Projects\TextRecognitionTesseract\TextRecognitionTesseract\obj\Debug\TextRecognitionTesseract.Properties.Resources.resources
+c:\users\tomek\documents\visual studio 2017\Projects\TextRecognitionTesseract\TextRecognitionTesseract\obj\Debug\TextRecognitionTesseract.csproj.GenerateResource.Cache
+c:\users\tomek\documents\visual studio 2017\Projects\TextRecognitionTesseract\TextRecognitionTesseract\obj\Debug\TextRecognitionTesseract.exe
+c:\users\tomek\documents\visual studio 2017\Projects\TextRecognitionTesseract\TextRecognitionTesseract\obj\Debug\TextRecognitionTesseract.pdb
+c:\users\tomek\documents\visual studio 2017\Projects\TextRecognitionTesseract\TextRecognitionTesseract\bin\Debug\x64\liblept172.dll
+c:\users\tomek\documents\visual studio 2017\Projects\TextRecognitionTesseract\TextRecognitionTesseract\bin\Debug\x64\libtesseract304.dll
+c:\users\tomek\documents\visual studio 2017\Projects\TextRecognitionTesseract\TextRecognitionTesseract\bin\Debug\x86\liblept172.dll
+c:\users\tomek\documents\visual studio 2017\Projects\TextRecognitionTesseract\TextRecognitionTesseract\bin\Debug\x86\libtesseract304.dll
+c:\users\tomek\documents\visual studio 2017\Projects\TextRecognitionTesseract\TextRecognitionTesseract\bin\Debug\Tesseract.dll
+c:\users\tomek\documents\visual studio 2017\Projects\TextRecognitionTesseract\TextRecognitionTesseract\bin\Debug\Tesseract.xml
+c:\users\tomek\documents\visual studio 2017\Projects\TextRecognitionTesseract\TextRecognitionTesseract\obj\Debug\TextRecognitionTesseract.TextRecognition.resources
